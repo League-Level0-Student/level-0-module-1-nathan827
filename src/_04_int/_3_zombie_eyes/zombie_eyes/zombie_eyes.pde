@@ -1,4 +1,4 @@
-
+	
 void setup() {
 PImage face = loadImage("face.png");
 size(500,500);
